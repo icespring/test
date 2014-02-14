@@ -10,4 +10,5 @@ int main()
 {
 	printf("hello world!\n");
 	printf("the file has been changed.\n");
+	for(;;);
 }
